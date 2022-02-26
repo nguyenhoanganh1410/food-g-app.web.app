@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.db1bb79d.css",
+    "main.js": "./static/js/main.a0116111.js",
+    "static/js/787.5dc0e2a0.chunk.js": "./static/js/787.5dc0e2a0.chunk.js",
+    "static/media/banner-02.jpg": "./static/media/banner-02.675b194a3dbc123a75d2.jpg",
+    "static/media/banner-01.jpg": "./static/media/banner-01.57953e4d86530e35dc5c.jpg",
+    "static/media/banner-03.jpg": "./static/media/banner-03.5b0810a42d2fc17b735a.jpg",
+    "static/media/home_analysis.jpg": "./static/media/home_analysis.217f127121e0ef1baa4b.jpg",
+    "static/media/info-img.jpg": "./static/media/info-img.be8ce5f74a7a1847647f.jpg",
+    "static/media/login.svg": "./static/media/login.a547c0a35a42d9141f314d791d715841.svg",
+    "static/media/item1.jpg": "./static/media/item1.d92f405adc5c7c259c73.jpg",
+    "static/media/bestsell01.png": "./static/media/bestsell01.8dd2e21f7fdb7ba624a2.png",
+    "static/media/bestsell02.png": "./static/media/bestsell02.3cab11b62f78d131a494.png",
+    "static/media/bestsell03.png": "./static/media/bestsell03.3cab11b62f78d131a494.png",
+    "static/media/review03.jpg": "./static/media/review03.3fbbdde94d8d42108b05.jpg",
+    "static/media/review02.jpg": "./static/media/review02.05fc2331a0afa80481a0.jpg",
+    "static/media/review01.jpg": "./static/media/review01.8b773fe57fb05541c806.jpg",
+    "static/media/order_1.jpg": "./static/media/order_1.7975394a8240b8ae7646.jpg",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/order_2.jpg": "./static/media/order_2.0d5ff727863055424c14.jpg",
+    "static/media/order_3.jpg": "./static/media/order_3.070bae010415199ca59f.jpg",
+    "static/media/order_4.jpg": "./static/media/order_4.d6316948b0cc779ba5a5.jpg",
+    "static/media/arr2.png": "./static/media/arr2.7a8b4722b8ea44fc5fee.png",
+    "static/media/arr1.png": "./static/media/arr1.e50b7ddfcb480daa308b.png",
+    "static/media/arr3.png": "./static/media/arr3.efc3debfe901a164af26.png",
+    "static/media/emty.svg": "./static/media/emty.f9db28214d5768fc3f13961ad429c5b7.svg",
+    "index.html": "./index.html",
+    "main.db1bb79d.css.map": "./static/css/main.db1bb79d.css.map",
+    "main.a0116111.js.map": "./static/js/main.a0116111.js.map",
+    "787.5dc0e2a0.chunk.js.map": "./static/js/787.5dc0e2a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1bb79d.css",
+    "static/js/main.a0116111.js"
+  ]
+}
